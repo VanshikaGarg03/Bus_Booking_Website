@@ -40,3 +40,31 @@ git clone https://github.com/VanshikaGarg03/Bus_Booking_Website.git
 # Import the database file into your MySQL using phpMyAdmin
 
 # Activate the custom theme from WordPress dashboard
+Setup MySQL Database
+Import bus_booking.sql to your MySQL database (if available).
+
+Update wp-config.php with the correct database credentials.
+
+
+📂 Project Structure
+pgsql
+Copy
+Edit
+bus_booking_website/
+├── style.css
+├── index.php
+├── booking-form.php
+├── functions.php
+├── js/
+│   └── script.js
+├── css/
+│   └── style.css
+📄 License
+This project is open-source and free to use under the MIT License.
+
+🙋‍♀️ Author
+Vanshika Garg
+
+GitHub: @VanshikaGarg03
+
+LinkedIn: [vanshika-garg](https://www.linkedin.com/in/vanshika-garg-2ba83b25a/)
